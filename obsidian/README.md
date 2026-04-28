@@ -25,6 +25,20 @@ Official links:
 - collaborative curation
 - portable external brain
 
+## Local Bootstrap
+
+To create a vault from the repository content:
+
+```bash
+bash tools/setup-obsidian-vault.sh ~/Obsidian/PICR
+```
+
+To refresh vault notes later:
+
+```bash
+python3 tools/export-obsidian.py ~/Obsidian/PICR
+```
+
 See also:
 
 - [SETUP.md](./SETUP.md)

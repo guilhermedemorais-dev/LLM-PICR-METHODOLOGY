@@ -34,6 +34,18 @@ Turn an Obsidian vault into a human-readable layer for:
    - `projects`
 5. Copy or mirror useful PICR notes into that vault.
 
+Or bootstrap a vault from this repository:
+
+```bash
+bash tools/setup-obsidian-vault.sh ~/Obsidian/PICR
+```
+
+This script will:
+
+1. create the vault folder if needed
+2. export catalogs, skills, MCPs, project template, and memory notes
+3. create `PICR Home.md` as the vault entry point
+
 ## Recommended Settings
 
 In Obsidian Settings, configure:
