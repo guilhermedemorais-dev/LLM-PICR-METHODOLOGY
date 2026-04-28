@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PICR Routing Log",
+  "type": "object",
+  "properties": {
+    "task_summary": { "type": "string" },
+    "domain": { "type": "string" },
+    "primary_candidate": { "type": "string" },
+    "support_candidates": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "need_web_research": { "type": "boolean" },
+    "need_skill_creation": { "type": "boolean" },
+    "need_mcp_creation": { "type": "boolean" },
+    "confidence": { "type": "string" },
+    "reason": { "type": "string" },
+    "result": { "type": "string" }
+  },
+  "required": [
+    "task_summary",
+    "domain",
+    "primary_candidate",
+    "need_web_research",
+    "need_skill_creation",
+    "need_mcp_creation",
+    "confidence",
+    "reason"
+  ]
+}

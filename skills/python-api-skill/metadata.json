@@ -1,0 +1,11 @@
+{
+  "name": "python-api-skill",
+  "type": "skill",
+  "categories": ["programming"],
+  "tags": ["python", "api", "backend"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "medium",
+  "risk_level": "medium",
+  "source": "local"
+}

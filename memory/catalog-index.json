@@ -1,0 +1,50 @@
+[
+  {
+    "name": "design-system-skill",
+    "description": "Build or refine a design system with tokens, components, states, accessibility, and implementation boundaries.",
+    "path": "skills/design-system-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "mcp-builder-skill",
+    "description": "Decide whether a task needs an MCP and define a small, maintainable MCP surface instead of an oversized integration.",
+    "path": "skills/mcp-builder-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "picr-router-skill",
+    "description": "Route a task to the smallest useful skill or MCP set using PICR catalogs, confidence gates, and on-demand reading.",
+    "path": "skills/picr-router-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "python-api-skill",
+    "description": "Build or modify Python APIs with a bias toward small, testable changes, clear contracts, and explicit validation.",
+    "path": "skills/python-api-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "readme-skill",
+    "description": "Create or improve README files so users can understand setup, usage, structure, and operational constraints quickly.",
+    "path": "skills/readme-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "security-review-skill",
+    "description": "Review code or workflows for common appsec issues with emphasis on auth, validation, data exposure, and dangerous defaults.",
+    "path": "skills/security-review-skill/SKILL.md",
+    "type": "skill"
+  },
+  {
+    "name": "firecrawl-mcp",
+    "description": "MCP entry",
+    "path": "mcps/firecrawl-mcp/MCP.md",
+    "type": "mcp"
+  },
+  {
+    "name": "obsidian-mcp",
+    "description": "MCP entry",
+    "path": "mcps/obsidian-mcp/MCP.md",
+    "type": "mcp"
+  }
+]

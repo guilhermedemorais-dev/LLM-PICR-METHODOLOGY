@@ -1,0 +1,11 @@
+{
+  "name": "example-skill",
+  "type": "skill",
+  "categories": ["programming"],
+  "tags": ["example"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "low",
+  "risk_level": "safe",
+  "source": "local"
+}

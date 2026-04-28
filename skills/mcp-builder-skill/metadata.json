@@ -1,0 +1,11 @@
+{
+  "name": "mcp-builder-skill",
+  "type": "skill",
+  "categories": ["agents", "mcps"],
+  "tags": ["mcp", "integration", "builder"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "medium",
+  "risk_level": "medium",
+  "source": "local"
+}

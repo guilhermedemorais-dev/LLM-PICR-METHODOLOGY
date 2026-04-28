@@ -1,0 +1,11 @@
+{
+  "name": "readme-skill",
+  "type": "skill",
+  "categories": ["docs"],
+  "tags": ["readme", "docs"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "low",
+  "risk_level": "safe",
+  "source": "local"
+}

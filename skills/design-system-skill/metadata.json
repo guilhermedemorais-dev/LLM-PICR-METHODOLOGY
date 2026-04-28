@@ -1,0 +1,11 @@
+{
+  "name": "design-system-skill",
+  "type": "skill",
+  "categories": ["design"],
+  "tags": ["design-system", "ui", "components"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "medium",
+  "risk_level": "medium",
+  "source": "local"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "security-review-skill",
+  "type": "skill",
+  "categories": ["security"],
+  "tags": ["review", "appsec", "auth"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "medium",
+  "risk_level": "high",
+  "source": "local"
+}

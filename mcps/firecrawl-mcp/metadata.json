@@ -1,0 +1,9 @@
+{
+  "name": "firecrawl-mcp",
+  "type": "mcp",
+  "categories": ["mcps"],
+  "tags": ["retrieval", "docs", "crawl"],
+  "auth_required": true,
+  "risk_level": "medium",
+  "related_skills": ["picr-router-skill", "mcp-builder-skill"]
+}

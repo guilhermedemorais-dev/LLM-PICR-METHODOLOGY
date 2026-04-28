@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-mcp",
+  "type": "mcp",
+  "categories": ["mcps"],
+  "tags": ["obsidian", "notes", "memory"],
+  "auth_required": false,
+  "risk_level": "low",
+  "related_skills": ["picr-router-skill", "readme-skill"]
+}

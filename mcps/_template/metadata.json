@@ -1,0 +1,9 @@
+{
+  "name": "example-mcp",
+  "type": "mcp",
+  "categories": ["mcps"],
+  "tags": ["integration"],
+  "auth_required": true,
+  "risk_level": "medium",
+  "related_skills": []
+}

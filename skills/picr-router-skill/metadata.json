@@ -1,0 +1,11 @@
+{
+  "name": "picr-router-skill",
+  "type": "skill",
+  "categories": ["agents"],
+  "tags": ["router", "orchestration", "picr"],
+  "requires_tools": [],
+  "requires_mcp": [],
+  "cost_hint": "low",
+  "risk_level": "safe",
+  "source": "local"
+}
